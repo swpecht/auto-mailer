@@ -3,3 +3,6 @@
 #update everything
 apt-get update
 
+# install eclipse
+sudo apt-get install eclipse-platform
+
